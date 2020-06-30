@@ -1,3 +1,2 @@
-# WhoTweetedThat
-A Kaggle competition to check who is the author of the tweet.
-
+# YodaTweets
+(Kaggle Competition) To identify author for a given tweet by training model on a given data set.
